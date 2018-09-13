@@ -1,2 +1,7 @@
 # djangomojo
-Coding Dojo Django Projects 
+Coding Dojo Django Projects
+
+bok choi
+mango
+apple
+tar 
